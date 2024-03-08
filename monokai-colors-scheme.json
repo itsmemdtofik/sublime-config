@@ -1,7 +1,7 @@
 {
 	"variables":
 	{
-		"black": "hsl(0, 0%, 0%)",
+	"black": "hsl(0, 0%, 0%)",
         "black2": "hsl(60, 17%, 11%)",
         "black3": "hsl(70, 8%, 15%)",
         "black4": "hsl(0, 0%, 5%)",
