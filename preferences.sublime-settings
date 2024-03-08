@@ -1,0 +1,25 @@
+{	
+	"font_face":"Cascadia Mono",
+	"font_size": 10,
+	"highlight_line_number":true,
+	"font_options": ["no_italic"],
+	"highlight_line":true,
+	"caret_style":true,
+	"line_padding_top":1,
+	"line_padding_bottom":1,
+	"show_full_path":false,
+	"show_rel_path":false,
+	"show_project_file":false,
+	"remember_full_screen":true,
+	"gtk_client_side_window_decorations": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Dark+.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"auto_complete": true,
+	"index_files": true,
+	"draw_white_space": "all",
+
+}
